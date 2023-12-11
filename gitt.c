@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int x = 7;
+    int x = 5;
 
-    if (x == 7) {
+    if (x == 5) {
         printf("Hello GIT\n");
     } else {
         printf("HI GIT\n");
